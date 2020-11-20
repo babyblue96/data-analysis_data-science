@@ -1,2 +1,2 @@
-# python-webscaping-datascience
+# python-datascience
 my virtual data analytics/science project
